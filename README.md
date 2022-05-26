@@ -3,3 +3,6 @@
 
 ## Java
 - [Stack 과 Heap](JAVA/Stack%26Heap.md)
+
+## Spring
+- [static Mock](Spring/static_mock.md)
