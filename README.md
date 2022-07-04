@@ -10,3 +10,4 @@
 
 ## Database
 - [옵티마이저](Database/옵티마이저.md)
+- [INDEX](Database/Index.md)
