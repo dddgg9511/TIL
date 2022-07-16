@@ -11,3 +11,4 @@
 ## Database
 - [옵티마이저](Database/옵티마이저.md)
 - [INDEX](Database/Index.md)
+- [Prepared Stament](Database/Prepared%20Stamentd.md)
